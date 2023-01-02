@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SusaBe.github.io/project/static/css/main.073c9b0a.css",
-    "main.js": "/SusaBe.github.io/project/static/js/main.d25157c8.js",
-    "static/js/787.ec704a7a.chunk.js": "/SusaBe.github.io/project/static/js/787.ec704a7a.chunk.js",
-    "static/media/logo.svg": "/SusaBe.github.io/project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/SusaBe.github.io/project/index.html",
-    "main.073c9b0a.css.map": "/SusaBe.github.io/project/static/css/main.073c9b0a.css.map",
-    "main.d25157c8.js.map": "/SusaBe.github.io/project/static/js/main.d25157c8.js.map",
-    "787.ec704a7a.chunk.js.map": "/SusaBe.github.io/project/static/js/787.ec704a7a.chunk.js.map"
+    "main.css": "/React-Project/static/css/main.073c9b0a.css",
+    "main.js": "/React-Project/static/js/main.2ea0c421.js",
+    "static/js/787.ec704a7a.chunk.js": "/React-Project/static/js/787.ec704a7a.chunk.js",
+    "static/media/logo.svg": "/React-Project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Project/index.html",
+    "main.073c9b0a.css.map": "/React-Project/static/css/main.073c9b0a.css.map",
+    "main.2ea0c421.js.map": "/React-Project/static/js/main.2ea0c421.js.map",
+    "787.ec704a7a.chunk.js.map": "/React-Project/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d25157c8.js"
+    "static/js/main.2ea0c421.js"
   ]
 }
